@@ -1,0 +1,6 @@
+{
+  "port": "5000",
+  "jwtSecret": "pirogov mearn lessons",
+  "mongoUri": "mongodb+srv://pirogov:66lidepob17UGMw@cluster0.4wwai.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
